@@ -23,3 +23,6 @@
   node index
   ## Questions
   If you have any questions about this projects, please contact me directly at dawsonfilion21@gmail.com. You can view more of my projects at https://github.com/dawsonf18.
+  
+  ## Video demonstration
+  https://www.loom.com/share/6af43c34981b43e9b8925c1e3854190d
